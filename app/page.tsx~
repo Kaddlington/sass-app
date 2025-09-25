@@ -24,7 +24,8 @@ const Page = () => {
                   topic="Derivatives & Intergals"
                   subject="math"
                   duration={30}
-                  color="#FFDA6E"
+                  color="#FFDA6E;
+"
               />
               <CompanionCard
                   id="789"
